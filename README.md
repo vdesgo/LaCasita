@@ -7,11 +7,13 @@ Navegação interativa entre modelos
 Interface responsiva e moderna
 Design minimalista e elegante
 Animações otimizadas para uma experiência fluida
+
 🛠️ Tecnologias Utilizadas
 HTML5 - Estruturação do conteúdo
 CSS3 (SASS) - Estilização e animações
 JavaScript (ES6+) - Interatividade e controle da navegação
 Figma (para design) - Criação do conceito visual
+
 🎯 Objetivo
 O projeto foi desenvolvido como um estudo de animações CSS e JavaScript voltado para a apresentação de produtos de maneira dinâmica e impactante. Ele pode ser adaptado para diversas finalidades, como vitrines digitais e apresentações de portfólio.
 
