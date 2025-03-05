@@ -19,6 +19,8 @@ Este projeto é uma interface interativa para exibição de carros, com um desig
 O projeto foi desenvolvido como um estudo de animações CSS e JavaScript voltado para a apresentação de produtos de maneira dinâmica e impactante. Ele pode ser adaptado para diversas finalidades, como vitrines digitais e apresentações de portfólio.
 
 ## 📷 Pré-visualização
+![image](https://github.com/user-attachments/assets/38e95764-e636-40ae-ac0f-fddacbc44b24)
+
 
 ## 🚀 Como Executar
 1. Clone o repositório:
