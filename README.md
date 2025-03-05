@@ -19,13 +19,9 @@ O projeto foi desenvolvido como um estudo de animações CSS e JavaScript voltad
 
 🚀 Como Executar
 Clone o repositório:
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 Acesse a pasta do projeto:
-bash
-Copiar
-Editar
 cd nome-do-repositorio
+
 Abra o arquivo index.html no navegador.
